@@ -45,5 +45,5 @@ else {//если записи нет
 
 }
 
-//test 3
+//test 4
 echo json_encode($arResult);
